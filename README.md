@@ -6,3 +6,5 @@ of the Udemy's course. In order to build a responsive website, this project stil
 [Grid](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_grid_layout), 
 [Flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_flexible_box_layout/Basic_concepts_of_flexbox), 
 and even an external framework: [Bootstrap](https://getbootstrap.com/). 
+
+[Here](https://devitosans.github.io/Web-Design-Agency-Project/) is the result of this project.
