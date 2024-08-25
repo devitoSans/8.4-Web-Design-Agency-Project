@@ -89,6 +89,7 @@ main img {
     height: 15rem;
     float: left;
     margin: 0 1rem 1rem 0;
+    object-fit: cover;
   }
   
   .beauty-box > h2, .construction-box > h2 {
